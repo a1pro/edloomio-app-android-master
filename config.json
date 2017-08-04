@@ -1,0 +1,18 @@
+{
+    "app_id" : "app.edloom.io",
+    "appname": "edloomio Mobile",
+    "versioncode" : "2018",
+    "versionname" : "3.3.0",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"de": "German","en": "English","nl": "Dutch"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+    "demo_sites": {},
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false",
+    "privacypolicy": "https://edloom.io"
+}
